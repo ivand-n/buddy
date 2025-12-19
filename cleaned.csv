@@ -1,0 +1,201 @@
+Date,Time,Item,Price,Quantity,Total,Payment Method,Customer Satisfaction,Weather,Special Offers
+2024-04-01,12:15,Sandwich,4.5,2,9.0,Cash,4,Sunny,Yes
+2024-04-01,12:30,Drink,1.5,1,1.5,Card,3,Sunny,No
+2024-04-01,12:45,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,Yes
+2024-04-01,13:00,Burger,5.5,1,5.5,Cash,4,Sunny,No
+2024-04-01,13:15,Sandwich,4.5,1,4.5,Card,3,Sunny,Yes
+2024-04-01,13:30,Drink,1.5,2,3.0,Mobile Payment,5,Cloudy,No
+2024-04-01,13:45,Salad,5.0,1,5.0,Cash,4,Rainy,Yes
+2024-04-01,14:00,Burger,5.5,2,11.0,Card,3,Sunny,No
+2024-04-02,12:00,Sandwich,4.5,1,4.5,Mobile Payment,5,Rainy,Yes
+2024-04-02,12:15,Drink,1.5,1,1.5,Cash,4,Sunny,No
+2024-04-02,12:30,Salad,5.0,2,10.0,Card,3,Cloudy,Yes
+2024-04-02,12:45,Burger,5.5,1,5.5,Mobile Payment,5,Rainy,No
+2024-04-02,13:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,Yes
+2024-04-02,13:15,Drink,1.5,1,1.5,Card,3,Cloudy,No
+2024-04-02,13:30,Salad,5.0,1,5.0,Mobile Payment,5,Sunny,Yes
+2024-04-02,13:45,Burger,5.5,1,5.5,Cash,4,Rainy,No
+2024-04-03,12:00,Sandwich,4.5,1,4.5,Card,3,Sunny,No
+2024-04-03,12:15,Drink,1.5,2,3.0,Mobile Payment,4,Cloudy,Yes
+2024-04-03,12:30,Salad,5.0,1,5.0,Cash,5,Rainy,No
+2024-04-03,12:45,Burger,5.5,1,5.5,Card,4,Sunny,Yes
+2024-04-03,13:00,Sandwich,4.5,2,9.0,Mobile Payment,3,Cloudy,No
+2024-04-03,13:15,Drink,1.5,1,1.5,Cash,5,Sunny,Yes
+2024-04-03,13:30,Salad,5.0,1,5.0,Card,4,Rainy,No
+2024-04-03,13:45,Burger,5.5,2,11.0,Mobile Payment,3,Sunny,Yes
+2024-04-04,12:00,Sandwich,4.5,1,4.5,Cash,5,Cloudy,No
+2024-04-04,12:15,Drink,1.5,1,1.5,Card,4,Rainy,Yes
+2024-04-04,12:30,Salad,5.0,2,10.0,Mobile Payment,3,Sunny,No
+2024-04-04,12:45,Burger,5.5,1,5.5,Cash,5,Cloudy,Yes
+2024-04-04,13:00,Sandwich,4.5,2,9.0,Card,4,Rainy,No
+2024-04-04,13:15,Drink,1.5,1,1.5,Mobile Payment,3,Sunny,Yes
+2024-04-04,13:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-04,13:45,Burger,5.5,1,5.5,Card,4,Rainy,Yes
+2024-04-05,12:00,Sandwich,4.5,2,9.0,Mobile Payment,3,Sunny,No
+2024-04-05,12:15,Drink,1.5,1,1.5,Cash,4,Cloudy,Yes
+2024-04-05,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-05,12:45,Burger,5.5,2,11.0,Mobile Payment,3,Sunny,Yes
+2024-04-05,13:00,Sandwich,4.5,1,4.5,Cash,4,Cloudy,No
+2024-04-05,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-05,13:30,Salad,5.0,2,10.0,Mobile Payment,3,Sunny,No
+2024-04-05,13:45,Burger,5.5,1,5.5,Cash,4,Cloudy,Yes
+2024-04-06,12:00,Sandwich,4.5,2,9.0,Card,3,Sunny,No
+2024-04-06,12:15,Drink,1.5,1,1.5,Mobile Payment,4,Cloudy,Yes
+2024-04-06,12:30,Salad,5.0,1,5.0,Cash,5,Rainy,No
+2024-04-06,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-06,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-06,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-06,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-06,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-07,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-07,12:15,Drink,1.5,1,1.5,Card,3,Rainy,Yes
+2024-04-07,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,No
+2024-04-07,12:45,Burger,5.5,2,11.0,Cash,4,Sunny,Yes
+2024-04-07,13:00,Sandwich,4.5,1,4.5,Card,3,Cloudy,No
+2024-04-07,13:15,Drink,1.5,1,1.5,Mobile Payment,5,Rainy,Yes
+2024-04-07,13:30,Salad,5.0,2,10.0,Cash,4,Sunny,No
+2024-04-07,13:45,Burger,5.5,1,5.5,Card,3,Rainy,Yes
+2024-04-08,12:00,Sandwich,4.5,2,9.0,Mobile Payment,4,Sunny,No
+2024-04-08,12:15,Drink,1.5,1,1.5,Cash,3,Cloudy,Yes
+2024-04-08,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-08,12:45,Burger,5.5,2,11.0,Mobile Payment,4,Sunny,Yes
+2024-04-08,13:00,Sandwich,4.5,1,4.5,Cash,3,Cloudy,No
+2024-04-08,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-08,13:30,Salad,5.0,2,10.0,Mobile Payment,4,Sunny,No
+2024-04-08,13:45,Burger,5.5,1,5.5,Cash,3,Cloudy,Yes
+2024-04-09,12:00,Sandwich,4.5,2,9.0,Card,4,Rainy,No
+2024-04-09,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Sunny,Yes
+2024-04-09,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-09,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-09,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-09,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-09,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-09,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-10,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-10,12:15,Drink,1.5,1,1.5,Card,3,Rainy,Yes
+2024-04-10,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,No
+2024-04-10,12:45,Burger,5.5,2,11.0,Cash,4,Sunny,Yes
+2024-04-10,13:00,Sandwich,4.5,1,4.5,Card,3,Cloudy,No
+2024-04-10,13:15,Drink,1.5,1,1.5,Mobile Payment,5,Rainy,Yes
+2024-04-10,13:30,Salad,5.0,2,10.0,Cash,4,Sunny,No
+2024-04-10,13:45,Burger,5.5,1,5.5,Card,3,Rainy,Yes
+2024-04-11,12:00,Sandwich,4.5,2,9.0,Mobile Payment,4,Sunny,No
+2024-04-11,12:15,Drink,1.5,1,1.5,Cash,3,Cloudy,Yes
+2024-04-11,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-11,12:45,Burger,5.5,2,11.0,Mobile Payment,4,Sunny,Yes
+2024-04-11,13:00,Sandwich,4.5,1,4.5,Cash,3,Cloudy,No
+2024-04-11,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-11,13:30,Salad,5.0,2,10.0,Mobile Payment,4,Sunny,No
+2024-04-11,13:45,Burger,5.5,1,5.5,Cash,3,Cloudy,Yes
+2024-04-12,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-12,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-12,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-12,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-12,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-12,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-12,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-12,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-13,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-13,12:15,Drink,1.5,1,1.5,Card,3,Rainy,Yes
+2024-04-13,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,No
+2024-04-13,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-13,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-13,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-13,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-13,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-14,12:00,Sandwich,4.5,2,9.0,Mobile Payment,4,Sunny,No
+2024-04-14,12:15,Drink,1.5,1,1.5,Cash,3,Cloudy,Yes
+2024-04-14,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-14,12:45,Burger,5.5,2,11.0,Mobile Payment,4,Sunny,Yes
+2024-04-14,13:00,Sandwich,4.5,1,4.5,Cash,3,Cloudy,No
+2024-04-14,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-14,13:30,Salad,5.0,2,10.0,Mobile Payment,4,Sunny,No
+2024-04-14,13:45,Burger,5.5,1,5.5,Cash,3,Cloudy,Yes
+2024-04-15,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-15,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-15,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-15,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-15,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-15,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-15,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-15,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-16,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-16,12:15,Drink,1.5,1,1.5,Card,3,Rainy,Yes
+2024-04-16,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,No
+2024-04-16,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-16,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-16,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-16,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-16,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-17,12:00,Sandwich,4.5,2,9.0,Mobile Payment,4,Sunny,No
+2024-04-17,12:15,Drink,1.5,1,1.5,Cash,3,Cloudy,Yes
+2024-04-17,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-17,12:45,Burger,5.5,2,11.0,Mobile Payment,4,Sunny,Yes
+2024-04-17,13:00,Sandwich,4.5,1,4.5,Cash,3,Cloudy,No
+2024-04-17,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-17,13:30,Salad,5.0,2,10.0,Mobile Payment,4,Sunny,No
+2024-04-17,13:45,Burger,5.5,1,5.5,Cash,3,Cloudy,Yes
+2024-04-18,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-18,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-18,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-18,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-18,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-18,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-18,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-18,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-19,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-19,12:15,Drink,1.5,1,1.5,Card,3,Rainy,Yes
+2024-04-19,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Cloudy,No
+2024-04-19,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-19,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-19,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-19,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-19,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-20,12:00,Sandwich,4.5,2,9.0,Mobile Payment,4,Sunny,No
+2024-04-20,12:15,Drink,1.5,1,1.5,Cash,3,Cloudy,Yes
+2024-04-20,12:30,Salad,5.0,1,5.0,Card,5,Rainy,No
+2024-04-20,12:45,Burger,5.5,2,11.0,Mobile Payment,4,Sunny,Yes
+2024-04-20,13:00,Sandwich,4.5,1,4.5,Cash,3,Cloudy,No
+2024-04-20,13:15,Drink,1.5,1,1.5,Card,5,Rainy,Yes
+2024-04-20,13:30,Salad,5.0,2,10.0,Mobile Payment,4,Sunny,No
+2024-04-20,13:45,Burger,5.5,1,5.5,Cash,3,Cloudy,Yes
+2024-04-21,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-21,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-21,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-21,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-21,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-21,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-21,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-21,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-22,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-22,12:15,Drink,1.5,1,1.5,Card,3,Cloudy,Yes
+2024-04-22,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Rainy,No
+2024-04-22,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-22,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-22,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-22,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-22,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-23,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-23,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-23,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-23,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-23,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-23,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-23,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-23,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-24,12:00,Sandwich,4.5,2,9.0,Cash,4,Sunny,No
+2024-04-24,12:15,Drink,1.5,1,1.5,Card,3,Cloudy,Yes
+2024-04-24,12:30,Salad,5.0,1,5.0,Mobile Payment,5,Rainy,No
+2024-04-24,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-24,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-24,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-24,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-24,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
+2024-04-25,12:00,Sandwich,4.5,2,9.0,Card,4,Sunny,No
+2024-04-25,12:15,Drink,1.5,1,1.5,Mobile Payment,3,Rainy,Yes
+2024-04-25,12:30,Salad,5.0,1,5.0,Cash,5,Cloudy,No
+2024-04-25,12:45,Burger,5.5,2,11.0,Card,4,Sunny,Yes
+2024-04-25,13:00,Sandwich,4.5,1,4.5,Mobile Payment,3,Cloudy,No
+2024-04-25,13:15,Drink,1.5,1,1.5,Cash,5,Rainy,Yes
+2024-04-25,13:30,Salad,5.0,2,10.0,Card,4,Sunny,No
+2024-04-25,13:45,Burger,5.5,1,5.5,Mobile Payment,3,Cloudy,Yes
