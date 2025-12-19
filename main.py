@@ -1,10 +1,13 @@
 from google import genai
 from google.genai import types
 from supabase import create_client
+import os
+from dotenv import load_dotenv
 
 #setup
-SUPABASE_URL = "https://uphtirvfhocduuwiurhl.supabase.co"
-SUPABASE_KEY = "sb_publishable_kMPy9VMUg5wzbpxkjk6p3g_Qy_6scnn"
+load_dotenv()
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 client = genai.Client()

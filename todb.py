@@ -3,11 +3,13 @@ from supabase import create_client, Client
 from google import genai
 from google.genai import types
 import numpy as np
+import os
+from dotenv import load_dotenv
 
 # 1. KONFIGURASI API
-SUPABASE_URL = "https://uphtirvfhocduuwiurhl.supabase.co"
-SUPABASE_KEY = "sb_publishable_kMPy9VMUg5wzbpxkjk6p3g_Qy_6scnn"
-GEMINI_API_KEY = "AIzaSyBCeob3b1PDxk9aC_dFntXxTyEX08SozEY"
+load_dotenv()
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
 # Inisialisasi Client
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
